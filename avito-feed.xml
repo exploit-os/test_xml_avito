@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>KMD-S02-AVT-001</Id>
+    <Title>Ведение Авито для строительных компаний — заявки</Title>
+    <Description>Ведение профиля на Авито для строительных компаний в Москве и области. Включает аудит текущего профиля, анализ спроса и конкурентов, сбор семантики и составление товарной матрицы. Готовим тексты и оформляем карточки; используем фото клиента или генерируем изображения AI. Выполняем ежедневную публикацию согласованного количества объявлений и платное продвижение эффективных объявлений за счёт рекламного бюджета. Предоставляем еженедельные отчёты и сводный месячный отчёт. Подходит компаниям, которым важно стабильно получать заявки в регионе.</Description>
+    <Price>50000</Price>
+    <Address>москва и область</Address>
+
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Маркетинг и продвижение</ServiceSubtype>
+    <ServiceSubspecies>Маркетплейсы, сервисы объявлений, карты</ServiceSubspecies>
+    <Specialty>Ведение аккаунта или магазина под ключ</Specialty>
+
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Нет</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+
+    <Images>
+      <Image url="https://i.ibb.co/1G5bKs6m/image.png" />
+    </Images>
+  </Ad>
+</Ads>
